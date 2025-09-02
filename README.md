@@ -1,4 +1,4 @@
-## Pushing Data from Local System to GitHub Repository - Guideline
+# Pushing Data from Local System to GitHub Repository - Guideline
 
 Push any local folder to a new GitHub repo with a few commands.
 
